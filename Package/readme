@@ -1,0 +1,17 @@
+For the 2019 Meeting of The International Society for Data Science and Analytics
+July 6-8, 2019 Nanjing, China the presentation on WeibullR included work that
+was then under development. Since this package is intended to be altered
+considerably before next release to CRAN this development version 1.0.11.7 will
+be maintained here in a frozen state.
+
+This package must be built from sources. R packages Rcpp and RcppArmadillo are
+required.
+
+Windows users may wish to refer to instructions on building R packages from
+sources at:
+
+http://www.openreliability.org/using-r-packages-on-windows/\#build-source
+
+ 
+
+Operating systems other than Linux will require the suitable build chain for R.
