@@ -1,0 +1,17 @@
+This repository provides images for all figures and scripts to generate them.
+For “WeibullR an R Package for Webull Analysis for Reliability Engineers”
+presented at:
+
+The 2019 Meeting of The International Society for Data Science and Analytics
+July 6-8, 2019 Nanjing, China
+
+ 
+
+Note: That generation of  figures 6 through 8 required a development version of
+the WeibullR package at the time of presentation. The content of these figures
+will require altered code as WeibullR is moved to newer CRAN releases. For this
+reason the source package for WeibullR version 1.0.11.7 will be maintained at:
+
+ 
+
+https://github.com/openrelia/ISDSA/tree/master/Package/
