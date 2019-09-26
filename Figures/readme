@@ -7,10 +7,11 @@ July 6-8, 2019 Nanjing, China
 
  
 
-Note: That generation of  figures 6 through 8 required a development version of
-the WeibullR package at the time of presentation. The content of these figures
-will require altered code as WeibullR is moved to newer CRAN releases. For this
-reason the source package for WeibullR version 1.0.11.7 will be maintained at:
+Note: That generation of figures 6 through 8 required a development version of
+the WeibullR package at the time of presentation. The content of  figures 6 and
+7 will require altered code as WeibullR is moved to newer CRAN releases. For
+this reason the source package for WeibullR version 1.0.11.7 will be maintained
+at:
 
  
 
